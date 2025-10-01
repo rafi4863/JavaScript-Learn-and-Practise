@@ -1,6 +1,14 @@
 
 // Array type system
 
+
+var numbers = [45, 32, 54, 20, 87, 48, 64, 50, 100, 200];
+
+console.log(typeof numbers);
+
+
+
+
 var numbers = [45, 32, 54, 20, 87, 48, 64, 50, 100, 200];
 
 console.log("Numbers is : " + numbers);
