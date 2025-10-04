@@ -16,7 +16,7 @@ if (myBuget <= bargarPrice) {
 // use if else condition for example
 
 
-let mark = 11;
+let mark = 100;
 
 if ( mark >= 90){
     console.log("GPA : Golden");
