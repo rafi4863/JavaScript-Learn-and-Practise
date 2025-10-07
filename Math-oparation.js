@@ -52,3 +52,31 @@ console.log(result5);
 // abs use korle negetiv number ke positive kore dibe
 
 
+
+// example 6
+
+let any = Math.random();
+
+console.log(any);
+// random use korle differnt kiso numbers dibe 0-1 ar moddho.
+
+
+// example 7
+// jodi Ami mone kori random number asbe kinto seta 1 - 20 ar moddho jekono kiso tahole tar JavaScript programme
+
+
+let random = Math.random() * 20;
+
+console.log(random);
+
+
+
+// example 8
+// jodi ami mone kori random a kono float numbers asbe na only integer numbers golo asbe tahole tar JavaScript programme
+
+let random2 = Math.round(Math.random() * 20 );
+
+console.log(random2);
+
+
+
